@@ -1,1 +1,1 @@
-# smartCampus
+# smartCampus api
